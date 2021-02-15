@@ -1,6 +1,6 @@
 # Subarulink AWS Lamba API
 
-This repo allows you to control Subaru's Stralink remote features through a REST api.
+This repo allows you to control Subaru's Stralink remote features through a REST api!
 
 ### Why? 
 
